@@ -1,4 +1,4 @@
-Pterodactyl eggs are made by parckervcp (LINK) but modified by me. I use these eggs on my hosting platform (https://0x001.cloud) and wanted to share them with you.
+Pterodactyl eggs are made by parckervcp ([LINK](https://github.com/parkervcp/eggs)) but modified by me. I use these eggs on my hosting platform ([LINK]https://0x001.cloud) and wanted to share them with you.
 
 Mostly what's new is just a way for users to change startup flags manually, and added default flags. The user can't change RAM, just Aikar's Flags, RAM is handled by {{SERVER_MEMORY}} and JAR name is handled by {{SERVER_JAR}}.
 
