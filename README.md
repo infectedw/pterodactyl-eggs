@@ -3,3 +3,6 @@ Pterodactyl eggs are made by parckervcp ([ParkerVCP](https://github.com/parkervc
 Mostly what's new is just a way for users to change startup flags manually, and added default flags. The user can't change RAM, just Aikar's Flags, RAM is handled by {{SERVER_MEMORY}} and JAR name is handled by {{SERVER_JAR}}.
 
 Soon I will add more as I progress.
+
+**Minecraft**
+[Paper](https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-paper.json)
