@@ -1,4 +1,4 @@
-Pterodactyl eggs are made by parckervcp ([ParkerVCP](https://github.com/parkervcp/eggs)) but modified by me. I use these eggs on my hosting platform ([0x001 Host](https://0x001.cloud)) and wanted to share them with you.
+Pterodactyl eggs are made by parckervcp ([ParkerVCP](https://github.com/parkervcp/eggs)) but modified by me (<a href="https://infectedw.me">infectedw</a>). I use these eggs on my hosting platform ([0x001 Host](https://0x001.cloud)) and wanted to share them with you.
 
 Mostly what's new is just a way for users to change startup flags manually, added default flags, and added bigger selection of JAVA providers and versions. The user can't change RAM, just Aikar's Flags, RAM is handled by {{SERVER_MEMORY}} and JAR name is handled by {{SERVER_JAR}}.
 
@@ -18,8 +18,8 @@ If you are reading this it looks like you are looking to add an egg to your serv
 
 
 <h1>Minecraft</h1>
-<a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-paper.json">Paper</a><br>
-<a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-velocity.json">Velocity</a><br>
-<a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-fabric.json">Fabric</a><br>
-<a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-waterall.json">Waterfall</a>
+- <a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-paper.json">Paper</a><br>
+- <a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-velocity.json">Velocity</a><br>
+- <a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-fabric.json">Fabric</a><br>
+- <a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-waterall.json">Waterfall</a>
 
