@@ -21,5 +21,10 @@ If you are reading this it looks like you are looking to add an egg to your serv
 - <a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-paper.json">Paper</a><br>
 - <a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-velocity.json">Velocity</a><br>
 - <a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-fabric.json">Fabric</a><br>
-- <a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-waterall.json">Waterfall</a>
-
+- <a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-waterall.json">Waterfall</a><br>
+- <a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-purpur-geysermc-floodgate.json">Purpur-Geyer-Floodgate</a><br>
+- <a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-vanilla-cord.json">VanillaCord</a><br>
+- <a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-forge.json">Forge Enchanced</a><br>
+- <a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-purpur.json">Purpur</a><br>
+- <a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-spigot.json">Spigot</a><br>
+- <a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-nano-limbo.json">NanoLimbo</a><br>
