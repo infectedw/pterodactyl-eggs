@@ -4,6 +4,17 @@ Mostly what's new is just a way for users to change startup flags manually, and 
 
 Soon I will add more as I progress.
 
+If you are reading this it looks like you are looking to add an egg to your server.
+
+1. Download any of the json files located in the folders below.
+2. It's easiest to right click the raw button and save as.
+3. In your panel go to the Nests section in the admin part of the panel
+4. Click the green Import Egg button
+5. Browse to the json file you saved earlier
+6. Select what nest you want to put the egg in.
+7. If you want a new nest you need to create it before importing the egg.
+
+
 <h1>Minecraft</h1><br>
 <a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-paper.json">Paper</a><br>
 <a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-velocity.json">Velocity</a><br>
