@@ -14,8 +14,10 @@ If you are reading this it looks like you are looking to add an egg to your serv
 6. Select what nest you want to put the egg in.
 7. If you want a new nest you need to create it before importing the egg.
 
+<h3>You must restart your daemon after importing an egg if you are using 0.7. This is not required on 1.X</h3>
 
-<h1>Minecraft</h1><br>
+
+<h1>Minecraft</h1>
 <a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-paper.json">Paper</a><br>
 <a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-velocity.json">Velocity</a><br>
 <a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-fabric.json">Fabric</a><br>
