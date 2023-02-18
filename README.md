@@ -21,4 +21,5 @@ If you are reading this it looks like you are looking to add an egg to your serv
 <a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-paper.json">Paper</a><br>
 <a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-velocity.json">Velocity</a><br>
 <a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-fabric.json">Fabric</a><br>
+<a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-waterall.json">Waterfall</a>
 
