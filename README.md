@@ -5,7 +5,7 @@ Mostly what's new is just a way for users to change startup flags manually, and 
 Soon I will add more as I progress.
 
 <h1>Minecraft</h1><br>
-<a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-paper.json">Paper</a>
-<a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-velocity.json">Velocity</a>
-<a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-fabric.json">Fabric</a>
+<a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-paper.json">Paper</a><br>
+<a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-velocity.json">Velocity</a><br>
+<a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-fabric.json">Fabric</a><br>
 
