@@ -18,13 +18,21 @@ If you are reading this it looks like you are looking to add an egg to your serv
 
 
 <h1>Minecraft</h1>
+<h3>Minecraft Java Edition</h3>
 - <a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-paper.json">Paper</a><br>
-- <a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-velocity.json">Velocity</a><br>
 - <a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-fabric.json">Fabric</a><br>
-- <a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-waterall.json">Waterfall</a><br>
 - <a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-purpur-geysermc-floodgate.json">Purpur-Geyer-Floodgate</a><br>
-- <a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-vanilla-cord.json">VanillaCord</a><br>
 - <a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-forge.json">Forge Enchanced</a><br>
 - <a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-purpur.json">Purpur</a><br>
 - <a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-spigot.json">Spigot</a><br>
+<h3>Minecraft Bedrock</h3>
+- <a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-bedrock.json">Bedrock</a><br>
+
+<h3>Minecraft Proxy</h3>
 - <a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-nano-limbo.json">NanoLimbo</a><br>
+- <a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-vanilla-cord.json">VanillaCord</a><br>
+- <a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-waterall.json">Waterfall</a><br>
+- <a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-velocity.json">Velocity</a><br>
+
+<h1>Grand Theft Auto</h1>
+- <a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-velocity.json">Velocity</a><br>
