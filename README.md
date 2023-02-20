@@ -35,4 +35,4 @@ If you are reading this it looks like you are looking to add an egg to your serv
 - <a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-velocity.json">Velocity</a><br>
 
 <h1>Grand Theft Auto</h1>
-- <a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/minecraft/egg-velocity.json">Velocity</a><br>
+- <a href="https://github.com/infectedw/pterodactyl-eggs/blob/main/Grand%20Theft%20Auto/egg-five-m.json">FiveM</a><br>
